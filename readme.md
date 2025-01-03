@@ -9,6 +9,7 @@ Wrote to find the IP of CCTV server without installing any third party applicati
 
 
 ## Samples
+![image zero](./docs/ip-scanner-zero.png)
 ![image one](./docs/ip-scanner-one.png)
 ![image two](./docs/ip-scanner-two.png)
 ![image three](./docs/ip-scanner-three.png)
